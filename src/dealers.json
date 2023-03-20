@@ -1,0 +1,51 @@
+
+[
+  {
+    "id": 1,
+    "name": "Juan Reyes",
+    "spreading": true,
+    "products": ["Paquete de Galletas", "Limones"] 
+  },
+  {
+    "id": 2,
+    "name": "Diego Arazona",
+    "spreading": true,
+    "products": ["Tarro de Leche", "Celda de Huevo", "Gaseosa", "Detergente Ariel"] 
+  },
+  {
+    "id": 3,
+    "name": "Manuel Davila",
+    "spreading": false,
+    "products": [] 
+  },
+  {
+    "id": 5,
+    "name": "Carlos Fuentes",
+    "spreading": false,
+    "products": [] 
+  },
+  {
+    "id": 6,
+    "name": "Jhon Cervantes",
+    "spreading": true,
+    "products": ["Azucar", "Aceite"] 
+  },
+  {
+    "id": 7,
+    "name": "Sergio Obando",
+    "spreading": true,
+    "products": ["Fresas", "Yogurt", "Mantequilla"] 
+  },
+  {
+    "id": 8,
+    "name": "Javier Rincon",
+    "spreading": false,
+    "products": [] 
+  },
+  {
+    "id": 9,
+    "name": "Carmen Rios",
+    "spreading": true,
+    "products": ["Helado", "Mermelada", "Arroz", "Aceite"] 
+  }
+]
